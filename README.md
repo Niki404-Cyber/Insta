@@ -1,4 +1,4 @@
-# Insta-Crack
+# IG
 🎉Instagram Clonnig🌸
 
 <b></b> [![Facebook](https://img.shields.io/badge/Facebook-Mr.NIKI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/ok.tata.good.bye.gaya)<br> [![WhatsApp](https://img.shields.io/badge/WhatsApp-Mr.NIKI-blue?style=flat-square&logo=WhatsApp)](https://chat.whatsapp.com/IulgtTY1ao6HeowtyCFEGJ)
@@ -26,10 +26,10 @@ $ pip install mechanize
 $ pip install bs4
 $ pip install rich
 $ pkg install git
-$ rm -rf Insta-Crack
-$ git clone https://github.com/Niki404-Cyber/Insta-Crack
-$ cd Insta-Crack
-$ python Crack.py
+$ git clone https://github.com/Niki404-Cyber/IG
+$ cd IG
+$ git pull
+$ python run.py
 
 Note: (This Tools Are Paid, So You Need Permission To Use Niki Insta-Crack Tools Enjoy)
 
@@ -39,7 +39,7 @@ Note: (This Tools Are Paid, So You Need Permission To Use Niki Insta-Crack Tools
 # Single Command 
 
 ```
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip install requests ; pip install mechanize; pip install bs4, pkg install git ; git clone https://github.com/Niki404-Cyber/Insta-Crack.git ; cd Insta-Crack; python Crack.py
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip install requests ; pip install mechanize; pip install bs4, pkg install git ; git clone https://github.com/Niki404-Cyber/IG.git ; cd IG; python run.py
 
 Note: (This Tools Are Paid, So You Need Permission To Use Niki Luxury Tools Enjoy)
 
