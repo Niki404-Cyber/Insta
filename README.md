@@ -27,8 +27,8 @@ $ pip install mechanize
 $ pip install bs4
 $ pip install rich
 $ pkg install git
-$ git clone https://github.com/Niki404-Cyber/IG
-$ cd IG
+$ git clone https://github.com/Niki404-Cyber/Insta
+$ cd Insta
 $ git pull
 $ python run.py
 
