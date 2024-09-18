@@ -43,7 +43,7 @@ git clone https://github.com/Niki404-Cyber/IG.git
 cd Insta
 python run.py
 
-Note: (This Tools Are Paid, So You Need Permission To Use Niki Insta Tools Enjoy)
+Note: (This Tools Free, So You No Need Permission To Use Niki Insta Tools Enjoy)
 
 ```
 
