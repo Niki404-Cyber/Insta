@@ -18,31 +18,32 @@
 ## <b>Installation</b>
 
 ```
-$ pkg update
-$ pkg upgrade
-$ pkg install python
-$ pkg install python2
-$ pip install requests
-$ pip install mechanize
-$ pip install bs4
-$ pip install rich
-$ pkg install git
-$ git clone https://github.com/Niki404-Cyber/Insta
-$ cd Insta
-$ git pull
-$ python run.py
+pkg update
+pkg upgrade
+pkg install python
+pkg install python2
+pip install requests
+pip install mechanize
+pip install bs4
+pip install rich
+pkg install git
+git clone https://github.com/Niki404-Cyber/Insta
+cd Insta
+python run.py
 
 Note: (This Tools Are Paid, So You Need Permission To Use Niki Insta-Crack Tools Enjoy)
-
-
 ```
 
 # Single Command 
 
 ```
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip install requests ; pip install mechanize; pip install bs4, pkg install git ; git clone https://github.com/Niki404-Cyber/IG.git ; cd IG; python run.py
+cd $HOME
+rm -rf Insta
+git clone https://github.com/Niki404-Cyber/IG.git
+cd Insta
+python run.py
 
-Note: (This Tools Are Paid, So You Need Permission To Use Niki Luxury Tools Enjoy)
+Note: (This Tools Are Paid, So You Need Permission To Use Niki Insta Tools Enjoy)
 
 ```
 
