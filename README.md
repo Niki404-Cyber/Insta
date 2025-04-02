@@ -27,7 +27,7 @@ pip install mechanize
 pip install bs4
 pip install rich
 pkg install git
-git clone https://github.com/Niki404-Cyber/Insta
+git clone --depth=1 https://github.com/Niki404-Cyber/Insta
 cd Insta
 python run.py
 
@@ -39,7 +39,7 @@ Note: (This Tools Are Paid, So You Need Permission To Use Niki Insta-Crack Tools
 ```
 cd $HOME
 rm -rf Insta
-git clone https://github.com/Niki404-Cyber/Insta.git
+git clone --depth=1 https://github.com/Niki404-Cyber/Insta.git
 cd Insta
 python run.py
 ```
