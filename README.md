@@ -42,9 +42,6 @@ rm -rf Insta
 git clone https://github.com/Niki404-Cyber/Insta.git
 cd Insta
 python run.py
-
-Note: (This Tools Free, So You No Need Permission To Use Niki Insta Tools Enjoy)
-
 ```
 
 [![Facebook](https://img.shields.io/badge/Facebook-Mr.NIKI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/ok.tata.good.bye.gaya)</br>
